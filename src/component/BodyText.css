@@ -1,0 +1,17 @@
+.text-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: #060b26;
+    
+}
+
+.text-body {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}

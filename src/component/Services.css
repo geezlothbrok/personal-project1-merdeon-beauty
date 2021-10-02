@@ -1,0 +1,21 @@
+.bottom-rw {
+    margin-top: 5rem;
+}
+
+.caps:hover {
+    background-color: #220c31;
+    transform: scale(1.2);
+}
+
+.caps {
+    height: 50px;
+    width: 45%;
+    border-radius: 4px;
+    align-items: center;
+    display: flex;
+}
+
+.bookings {
+    margin-top: 5rem;
+   
+}

@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+#text {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#texty {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 5rem;
+  color: #BF0DC2;
+}
+
+#texty-booking {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 5rem;
+  color: #060b26;
+}
+
+.caps {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: #BF0DC2;
+  font-size: 24px;
+  margin-top: 5rem;
+}
+
+
+h2, h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h6 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+h3 {
+  background-color: #BF0DC2;
+  height: 50px;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 13px;
+  color: whitesmoke;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  color: #060b26;
+  font-weight: bold;
+}
