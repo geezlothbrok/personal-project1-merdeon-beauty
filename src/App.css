@@ -35,6 +35,11 @@
   margin-top: 5rem;
 }
 
+.details {
+  font-family: 'Raleway', sans-serif;
+  color: #060b26;
+  font-weight: bold;
+}
 
 h2, h1 {
   font-family: 'Raleway', sans-serif;

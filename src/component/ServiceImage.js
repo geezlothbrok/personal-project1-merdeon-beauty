@@ -23,9 +23,9 @@ function ServiceImage() {
 
           <div className="col-md-4 col-xs-6">
             <h4 className = 'caps'>Medicure</h4>
-            <p>We give the best treatment to your toes and feet and makes you feel a whole new experience.</p>
-            <p>We combine the use the use of mordern tecnologies and skills to give the best of our service.</p>
-            <p>Looking the place to treat your feet and have the best of your money? Look no further than Mereon beauty </p>
+            <p className = 'details'>We give the best treatment to your toes and feet and makes you feel a whole new experience.</p>
+            <p className = 'details'>We combine the use the use of mordern tecnologies and skills to give the best of our service.</p>
+            <p className = 'details'>Looking the place to treat your feet and have the best of your money? Look no further than Mereon beauty </p>
             
             <br></br>
             <Image
@@ -37,6 +37,9 @@ function ServiceImage() {
 
           <div className="col-md-4 col-xs-6">
             <h4 className = 'caps'>Bridal Make ups</h4>
+            <p className = 'details'>We give the best treatment to your toes and feet and makes you feel a whole new experience.</p>
+            <p className = 'details'>We combine the use the use of mordern tecnologies and skills to give the best of our service.</p>
+            <p className = 'details'>Looking the place to treat your feet and have the best of your money? Look no further than Mereon beauty </p>
             <br></br>
             <Image src="images/caro4.jpeg" thumbnail />
           </div>
@@ -44,6 +47,9 @@ function ServiceImage() {
 
           <div className="col-md-4 col-xs-6">
             <h4 className = 'caps'>Spa</h4>
+            <p className = 'details'>We give the best treatment to your toes and feet and makes you feel a whole new experience.</p>
+            <p className = 'details'>We combine the use the use of mordern tecnologies and skills to give the best of our service.</p>
+            <p className = 'details'>Looking the place to treat your feet and have the best of your money? Look no further than Mereon beauty </p>
             <br></br>
             <Image
               src="images/alan-caishan-cU53ZFBr3lk-unsplash.jpg"
@@ -55,6 +61,9 @@ function ServiceImage() {
 
         <div className="col-md-6 col-xs-6">
           <h4 className = 'caps'>Facial</h4>
+          <p className = 'details'>We give the best treatment to your toes and feet and makes you feel a whole new experience.</p>
+            <p className = 'details'>We combine the use the use of mordern tecnologies and skills to give the best of our service.</p>
+            <p className = 'details'>Looking the place to treat your feet and have the best of your money? Look no further than Mereon beauty </p>
           <br></br>
           <Image src="images/freestocks-YGmk9UZMdZg-unsplash.jpg" thumbnail />
         </div>
@@ -62,6 +71,9 @@ function ServiceImage() {
 
         <div className="col-md-6 col-xs-6">
           <h4 className = 'caps'>Hair Styling</h4>
+          <p className = 'details'>We give the best treatment to your toes and feet and makes you feel a whole new experience.</p>
+            <p className = 'details'>We combine the use the use of mordern tecnologies and skills to give the best of our service.</p>
+            <p className = 'details'>Looking the place to treat your feet and have the best of your money? Look no further than Mereon beauty </p>
           <br></br>
           <Image
             src="images/shari-sirotnak-oM5YoMhTf8E-unsplash.jpg"
@@ -72,6 +84,9 @@ function ServiceImage() {
 
         <div className="col-md-6 col-xs-6">
           <h4 className = 'caps'>Nails</h4>
+          <p className = 'details'>We give the best treatment to your toes and feet and makes you feel a whole new experience.</p>
+            <p className = 'details'>We combine the use the use of mordern tecnologies and skills to give the best of our service.</p>
+            <p className = 'details'>Looking the place to treat your feet and have the best of your money? Look no further than Mereon beauty </p>
           <br></br>
           <Image
             src="images/giorgio-trovato-gb6gtiTZKB8-unsplash.jpg"

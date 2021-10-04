@@ -1,5 +1,4 @@
 import React from "react";
-import NavBar from "../component/NavBar";
 import BodyText from "../component/BodyText";
 import Testimonial from "../component/Testimonial";
 import Footer from "../component/Footer";
@@ -15,10 +14,6 @@ function Home() {
             <BodyText />
             <Testimonial />
             <Footer /> 
-           
-            
-            
-            
           </div>
         </div>
       </div>
